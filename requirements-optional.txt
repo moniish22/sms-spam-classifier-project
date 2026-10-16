@@ -1,0 +1,3 @@
+# Only needed for the word-embedding experiment (--embeddings) and the web demo
+gensim>=4.3
+streamlit>=1.30
